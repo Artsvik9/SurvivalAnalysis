@@ -21,4 +21,4 @@ The goal of the project is to:
 
 ## ✍️ Author
 
-Artsvik Avetisyan# SurvivalAnalysis
+Artsvik Avetisyan
